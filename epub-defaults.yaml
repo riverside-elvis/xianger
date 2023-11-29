@@ -1,0 +1,7 @@
+---
+metadata-file: epub-meta.yaml
+toc: true
+toc-depth: 1
+css:
+  - epub-style.css
+...
